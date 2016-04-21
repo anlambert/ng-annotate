@@ -1,5 +1,5 @@
 {
-  "name": "ng-annotate",
+  "name": "ng-annotate-polydev",
   "version": "1.2.1",
   "description": "add, remove and rebuild angularjs dependency injection annotations",
   "main": "build/es5/ng-annotate-main.js",
